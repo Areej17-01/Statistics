@@ -1,0 +1,7 @@
+Theoretical distribution refers to a probability distribution that is described mathematically and is used to model a specific set of random variables. It is a mathematical description of the probability distribution of a random variable, based on theoretical principles rather than empirical data.
+
+Theoretical distributions are used in statistics to model the behavior of random variables and to make inferences about population parameters based on sample statistics. For example, the normal distribution is a theoretical distribution that is used to model many real-world phenomena, such as the distribution of heights or weights in a population.
+
+In practice, we often use theoretical distributions to model data because they have well-defined mathematical properties that make them easier to work with than the actual empirical distribution of the data. Theoretical distributions can be characterized by parameters such as mean, variance, and standard deviation, which allow us to make inferences about the population based on sample statistics.
+
+In summary, theoretical distributions are mathematical descriptions of probability distributions that are used to model the behavior of random variables. They are a fundamental concept in statistics and are used to make inferences about population parameters based on sample statistics.
