@@ -29,4 +29,4 @@ The examples in this repository are primarily implemented in Python, and require
 
 # Sources and Reference
 
-Oreily's book and others
+Oreily's book, DataCamp and others
